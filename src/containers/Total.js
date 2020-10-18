@@ -3,7 +3,7 @@ import Total from '../components/Total'
 
 const mapStateToProps = (state) => {
     return {
-        total: state.total
+        cars: state.cars
     }
 }
 
